@@ -1,6 +1,6 @@
 # LineFollower
 
-![A description of my image](images/Robot.jpeg)
+![A description of my image](images/empty.png)
 
   
 ## specifications
