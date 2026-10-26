@@ -1,27 +1,25 @@
 # LineFollower
 
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
-
 ![A description of my image](images/empty.png)
 
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano ESP32
 
-motors: 
+motors: Aslong JGA12-N20-30 DC-Transmissiemotor 6V - 500RPM
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: Pololu QTR-8A
 
-batteries:
+batteries: Li-Po Batterij 3.7V 2500mAh
 
-wireless communication:
+wireless communication: Wifi
 
-distance sensor - motors:
+distance sensor - motors: 7cm
 
-weight:
+weight: 
 
 speed: 
 
