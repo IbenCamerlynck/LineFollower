@@ -1,10 +1,6 @@
 ## bill of materials
 <br />
 
-|volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
-|----------|----|------------|-----------|---------|------|---------|
-|         1|    |            |           |              |      |         |
-
 | volgnummer | naam | omschrijving | nieuw/recup | kostprijs/stuk (€) | aantal | subtotaal (€) |
 |---:|---|---|---|---:|---:|---:|
 | 1 | Motoren | [Open productlink](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-jga12-n20-30-dc-transmissiemotor-6v-500rpm) | Nieuw | 4,50 | 2 | 9,00 |
