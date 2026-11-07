@@ -19,7 +19,7 @@
 
 **distance sensor - motors:** 7cm
 
-**weight: ** 240g
+**weight:** 240g
 
-**speed: ** 0.5 m/s
+**speed:** 0.5 m/s
 
